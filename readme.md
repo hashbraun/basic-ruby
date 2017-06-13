@@ -1,1 +1,0 @@
-Contains beginner, Ruby programs.
